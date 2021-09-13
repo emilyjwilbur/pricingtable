@@ -1,0 +1,38 @@
+.body {
+    margin: 50px;
+    background-color: rgb(243, 243, 243);
+}
+
+.collapse {
+    background-color: white;
+    
+}
+
+.text-muted {
+    font-size: x-small;
+    font-weight: lighter;
+    
+}
+
+.price {
+    color: grey;
+}
+
+.text-center {
+    border-left-width: thin;
+    font-weight:normal;
+    font-size: small;
+}
+
+.rowTitle {
+    font-weight:normal;
+    font-size: small;
+}
+
+.badge {
+    width: 100%; 
+    margin-bottom: 10px; 
+    background-color:rgb(182, 218, 117);
+    border-radius: 0;
+    margin-top: 0px;
+}
